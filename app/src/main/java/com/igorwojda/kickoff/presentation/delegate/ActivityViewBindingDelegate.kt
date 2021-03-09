@@ -1,4 +1,4 @@
-package com.example.kickoff.presentation.delegate
+package com.igorwojda.kickoff.presentation.delegate
 
 import android.app.Activity
 import android.view.LayoutInflater

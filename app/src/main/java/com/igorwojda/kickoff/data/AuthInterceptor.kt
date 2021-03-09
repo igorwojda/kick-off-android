@@ -1,4 +1,4 @@
-package com.example.kickoff.data
+package com.igorwojda.kickoff.data
 
 import okhttp3.Interceptor
 import okhttp3.Response

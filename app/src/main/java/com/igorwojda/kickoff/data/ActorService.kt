@@ -1,4 +1,4 @@
-package com.example.kickoff.data
+package com.igorwojda.kickoff.data
 
 import retrofit2.http.GET
 import retrofit2.http.Headers

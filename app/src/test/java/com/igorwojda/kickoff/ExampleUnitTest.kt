@@ -1,4 +1,4 @@
-package com.example.kickoff
+package com.igorwojda.kickoff
 
 import org.junit.jupiter.api.AfterAll
 import org.junit.jupiter.api.AfterEach

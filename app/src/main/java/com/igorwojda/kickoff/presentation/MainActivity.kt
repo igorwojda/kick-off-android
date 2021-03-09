@@ -1,13 +1,13 @@
-package com.example.kickoff.presentation
+package com.igorwojda.kickoff.presentation
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.kickoff.R
-import com.example.kickoff.databinding.ActivityMainBinding
-import com.example.kickoff.presentation.delegate.viewBinding
+import com.igorwojda.kickoff.R
+import com.igorwojda.kickoff.databinding.ActivityMainBinding
+import com.igorwojda.kickoff.presentation.delegate.viewBinding
 
 class MainActivity : AppCompatActivity(R.layout.activity_main) {
     private val viewModel by viewModels<MainActivityViewModel>()

@@ -1,9 +1,9 @@
-package com.example.kickoff.presentation
+package com.igorwojda.kickoff.presentation
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.kickoff.databinding.ItemActorBinding
+import com.igorwojda.kickoff.databinding.ItemActorBinding
 import kotlin.properties.Delegates
 
 class ActorAdapter: RecyclerView.Adapter<ActorAdapter.ViewHolder>() {

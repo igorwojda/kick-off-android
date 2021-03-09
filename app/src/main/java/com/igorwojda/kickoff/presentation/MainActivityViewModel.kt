@@ -1,10 +1,10 @@
-package com.example.kickoff.presentation
+package com.igorwojda.kickoff.presentation
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.kickoff.data.Repository
+import com.igorwojda.kickoff.data.Repository
 import kotlinx.coroutines.launch
 
 class MainActivityViewModel:ViewModel() {
